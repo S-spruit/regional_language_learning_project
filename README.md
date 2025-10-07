@@ -6,3 +6,7 @@ Here's what's the plan so far:
 - scoreboards
 - profile pages
 - West-fries as first dialect
+Sources for the dialects:
+
+https://www.mijnwoordenboek.nl/dialect/Westfries
+https://chatgpt.com/
